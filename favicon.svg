@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Kae Kreative favicon</title>
+  <!-- Favicon: pink square with white KAE monogram, readable at 16px -->
+  <rect x="0" y="0" width="64" height="64" rx="12" fill="#E91E8C"/>
+  <text x="32" y="44" text-anchor="middle" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="800" font-size="30" textLength="52" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">KAE</text>
+</svg>
